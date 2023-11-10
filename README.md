@@ -2,7 +2,7 @@
 
 Sleuth is a network sniffer based on [scapy](https://github.com/secdev/scapy)
 
-Contact: [WZH](vortezwohl@proton.me)
+Contact: [WZH](https://github.com/vortezwohl/sleuth-network-sniffer/commits?author=vortezwohl)
 # CLI
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/07cc9165-af8f-4edf-97a6-6e9ff50e2fb2)
 # Get Started
