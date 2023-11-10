@@ -1,5 +1,6 @@
 # SLEUTH
 Sleuth is a network sniffer based on [scapy](https://github.com/secdev/scapy)
+Contact: [vortezwohl](vortezwohl@proton.me)
 # CLI
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/07cc9165-af8f-4edf-97a6-6e9ff50e2fb2)
 # Get Started
@@ -31,4 +32,32 @@ exec [#scripts]                                                       : execute 
 bye                                                                   : exit sleuth.
 
 ----------------------------------------------------------------------
+```
+# Abbreviations References
+```
+mntr - monitor
+ms - measure {
+ p(lower case) - port
+ P(upper case) - protocol
+}
+ls - list {
+ dsc - descend
+ asc - ascend
+ int - interface
+ pk - packet
+ sm - summaried
+ dt - detailed
+}
+cap - capture {
+ i - interface
+ a - analysis
+ c - count
+ f - filter
+ t - timeout
+}
+s - save
+l - load
+d - discard
+sys - system
+exec - execute
 ```
