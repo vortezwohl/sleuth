@@ -14,7 +14,7 @@ ms [-p #port/-P #protocol]                                            : measure 
 
 ls ip [-dsc/-asc #number] / ls int / ls pk [-sm/-dt]                  : list ipv4 addresses, interfaces and captured packets.
 
-cap [-i #interface][-a #method][-c #counts][-f #filter][-t #seconds]  : capture packets over conditions.
+cap [-i #interface][-a #method][-c #counts][-f #filter][-t #seconds]  : capture packets over conditions. value of --filter(-f) parameter should be separated by '-', such as "src-host-192.168.1.1".
 
 save [#filepath]                                                      : save packets into file. if no filepath specified, save to ./sleuth.pcap by default.
 
