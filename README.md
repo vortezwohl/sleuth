@@ -1,13 +1,16 @@
 # SLEUTH
 
-Sleuth is a network sniffer based on [scapy](https://github.com/secdev/scapy)
+Sleuth is a network sniffer
 
 Author: [WZH](https://github.com/vortezwohl)
+# Libs related
+[scapy](https://github.com/secdev/scapy)
+[termcolor](https://pypi.org/project/termcolor/)
 # CLI
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/07cc9165-af8f-4edf-97a6-6e9ff50e2fb2)
 # Get Started
 install requirements then run sleuth.py
-# Usage
+# Commands
 ```
 ----------------------------------------------------------------------
 
