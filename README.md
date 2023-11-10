@@ -1,8 +1,6 @@
 # SLEUTH
 Sleuth is a network sniffer
 
-Author: [WZH](https://github.com/vortezwohl)
-
 # Libs related
 [scapy](https://github.com/secdev/scapy), [termcolor](https://pypi.org/project/termcolor/)
 
