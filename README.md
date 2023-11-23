@@ -1,5 +1,5 @@
 # SLEUTH
-Sleuth is a network sniffer
+Sleuth is a network sniffer and a proxy firewall
 
 # Libs related
 [scapy](https://github.com/secdev/scapy), [colorama](https://github.com/tartley/colorama), [pydivert](https://github.com/ffalcinelli/pydivert)
