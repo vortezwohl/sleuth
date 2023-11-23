@@ -7,7 +7,7 @@ Sleuth is a network sniffer or a proxy firewall
 # Run as user (Proxy doesn't work but other features works well)
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/df728a13-f3ef-4cee-b21c-06ca7487531d)
 
-# Run as administrator (Proxy-Win only available when you have admin privilege)
+# Run as administrator (Proxy works)
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/a127a9d8-debf-46db-828c-53fe041c7770)
 
 # Get Started
