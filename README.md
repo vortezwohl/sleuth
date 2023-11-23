@@ -5,7 +5,8 @@ Sleuth is a network sniffer or a proxy firewall
 [scapy](https://github.com/secdev/scapy), [colorama](https://github.com/tartley/colorama), [pydivert](https://github.com/ffalcinelli/pydivert)
 
 # CLI
-![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/07cc9165-af8f-4edf-97a6-6e9ff50e2fb2)
+![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/a127a9d8-debf-46db-828c-53fe041c7770)
+
 
 # Get Started
 install requirements then run sleuth.py
