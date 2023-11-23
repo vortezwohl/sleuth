@@ -18,12 +18,12 @@ Sleuth is a network sniffer or a proxy firewall
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/a127a9d8-debf-46db-828c-53fe041c7770)
 
 # Get Started
-Step 1.
-Install packages from [requirements.txt](https://github.com/vortezwohl/sleuth-network-sniffer/blob/main/requirements.txt)
-Step 2.
-Install [npcap](https://npcap.com/)/[winpcap](https://www.winpcap.org/) on your windows device to support [scapy](https://github.com/secdev/scapy)
-Step 3.
-Run sleuth.py
+- Step 1.
+  Install packages from [requirements.txt](https://github.com/vortezwohl/sleuth-network-sniffer/blob/main/requirements.txt)
+- Step 2.
+  Install [npcap](https://npcap.com/)/[winpcap](https://www.winpcap.org/) on your windows device to support [scapy](https://github.com/secdev/scapy)
+- Step 3.
+  Run sleuth.py
 
 # Built-in Commands
 ```
