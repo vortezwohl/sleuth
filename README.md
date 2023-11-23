@@ -4,10 +4,10 @@ Sleuth is a network sniffer or a proxy firewall
 # Libs related
 [scapy](https://github.com/secdev/scapy), [colorama](https://github.com/tartley/colorama), [pydivert](https://github.com/ffalcinelli/pydivert)
 
-## CLI
-# As user
+# Run as user
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/df728a13-f3ef-4cee-b21c-06ca7487531d)
-# As administrator
+
+# Run as administrator (Proxy-Win only available when you have admin privilege)
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/a127a9d8-debf-46db-828c-53fe041c7770)
 
 # Get Started
