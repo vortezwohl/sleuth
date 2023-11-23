@@ -47,15 +47,17 @@ bye                                                                   : exit sle
 # Abbreviations References
 ```
 mntr - monitor
+prx-win - proxy for windows
 ms - measure {
  p(lower case) - port
  P(upper case) - protocol
 }
 ls - list {
- dsc - descend
- asc - ascend
  int - interface
  pk - packet
+ wplog - log by proxy for windows
+ dsc - descend
+ asc - ascend
  sm - summaried
  dt - detailed
 }
