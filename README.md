@@ -1,5 +1,4 @@
 # SLEUTH
-Sleuth is a network sniffer or a proxy based firewall
 -   [Get Started](#get-started)
 -   [Libs related](#libs-related)
 -   [Commands](#build-in-commands)
