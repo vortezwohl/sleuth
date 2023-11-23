@@ -5,11 +5,15 @@ Sleuth is a network sniffer or a proxy firewall
 [scapy](https://github.com/secdev/scapy), [colorama](https://github.com/tartley/colorama), [pydivert](https://github.com/ffalcinelli/pydivert)
 
 # CLI
+as administrator
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/a127a9d8-debf-46db-828c-53fe041c7770)
+as user
+![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/df728a13-f3ef-4cee-b21c-06ca7487531d)
+
 
 
 # Get Started
-install requirements then run sleuth.py
+install requirements and run sleuth.py
 
 # Commands
 ```
@@ -19,7 +23,7 @@ mntr [on/off]                                                         : start mo
 
 ms [-p #port/-P #protocol]                                            : measure networking speed over a port or a protocol.
 
-ls ip [-dsc/-asc #number] / ls int / ls pk [-sm/-dt]                  : list ipv4 addresses, interfaces and captured packets.
+ls ip [-dsc/-asc #number] / ls int / ls pk [-sm/-dt] / ls wplog       : list ipv4 addresses, interfaces and captured packets.
 
 cap [-i #interface][-a #method][-c #counts][-f #filter][-t #seconds]  : capture packets over conditions. value of --filter(-f) parameter should be separated by '-', such as "src-host-192.168.1.1".
 
