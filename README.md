@@ -13,7 +13,7 @@ as administrator
 # Get Started
 install requirements and npcap/winpcap for scapy then run sleuth.py
 
-# Commands
+# Built-in Commands
 ```
 ----------------------------------------------------------------------
 
@@ -21,9 +21,11 @@ mntr [on/off]                                                         : start mo
 
 ms [-p #port/-P #protocol]                                            : measure networking speed over a port or a protocol.
 
-ls ip [-dsc/-asc #number] / ls int / ls pk [-sm/-dt] / ls wplog       : list ipv4 addresses, interfaces and captured packets.
+prx-win on / off / conf                                               : run, terminate or configurate (auto reboot) net proxy (on windows)
 
-cap [-i #interface][-a #method][-c #counts][-f #filter][-t #seconds]  : capture packets over conditions. value of --filter(-f) parameter should be separated by '-', such as "src-host-192.168.1.1".
+ls ip [-dsc/-asc #number] / ls int / ls pk [-sm/-dt] / ls wplog       : list ipv4 addresses, interfaces, captured packets and proxy log.
+
+cap [-i #interface][-a #method][-c #counts][-f #filter][-t #seconds]  : capture packets over conditions.
 
 save [#filepath]                                                      : save packets into file. if no filepath specified, save to ./sleuth.pcap by default.
 
