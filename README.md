@@ -1,8 +1,8 @@
 # SLEUTH
 Sleuth is a network sniffer or a proxy firewall
 
--   [Libs related](https://github.com/vortezwohl/sleuth-network-sniffer/edit/main/README.md#libs-related)
--   [Run-NonAdmin](https://github.com/vortezwohl/sleuth-network-sniffer/blob/main/README.md#run-as-user-proxy-doesnt-work-but-other-features-works-well)
+-   [Libs related](#libs-related)
+-   [Run-NonAdmin](#run-as-user-proxy-doesnt-work-but-other-features-works-well)
 
 # Libs related
 [scapy](https://github.com/secdev/scapy), [colorama](https://github.com/tartley/colorama), [pydivert](https://github.com/ffalcinelli/pydivert)
