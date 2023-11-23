@@ -50,7 +50,7 @@ bye                                                                   : exit sle
 ```
 
 # Capture Filter Language
-[Berkeley Packet Filter]([https://scapy.readthedocs.io/en/latest/usage.html#filters](https://dl.acm.org/doi/fullHtml/10.5555/2642922.2642925))
+[Berkeley Packet Filter](https://dl.acm.org/doi/fullHtml/10.5555/2642922.2642925)
 
 # Abbreviations References
 ```
