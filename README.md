@@ -23,7 +23,7 @@ Sleuth is a network sniffer or a proxy firewall
 - Step 2.
   Install [npcap](https://npcap.com/)/[winpcap](https://www.winpcap.org/) on your windows device to support [scapy](https://github.com/secdev/scapy)
 - Step 3.
-  Run sleuth.py
+  Run [sleuth.py](https://github.com/vortezwohl/sleuth-network-sniffer/blob/main/sleuth.py)
 
 # Built-in Commands
 ```
