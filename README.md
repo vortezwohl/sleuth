@@ -3,14 +3,14 @@
 -   [Libs related](#libs-related)
 -   [Commands](#build-in-commands)
 -   [Filter Languages](#capture-filter-script)
--   [Run NonAdmin](#run-as-user-proxy-doesnt-work-but-other-features-works-well)
+-   [Run NonAdmin](#run-as-user-proxy-doesnt-work-but-other-features-work-well)
 -   [Run Admin](#run-as-administrator-proxy-works)
 -   [Abbreviations](#abbreviations-references)
 
 # Libs related
 [scapy](https://github.com/secdev/scapy), [colorama](https://github.com/tartley/colorama), [pydivert](https://github.com/ffalcinelli/pydivert)
 
-# Run as user (Proxy doesn't work but other features works well)
+# Run as user (Proxy doesn't work but other features work well)
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/df728a13-f3ef-4cee-b21c-06ca7487531d)
 
 # Run as administrator (Proxy works)
