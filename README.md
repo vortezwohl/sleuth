@@ -11,7 +11,12 @@ as administrator
 ![image](https://github.com/vortezwohl/sleuth-network-sniffer/assets/117743023/a127a9d8-debf-46db-828c-53fe041c7770)
 
 # Get Started
-install requirements and npcap/winpcap for scapy then run sleuth.py
+Step 1.
+Install packages from requirements.txt
+Step 2.
+Install [npcap](https://npcap.com/)/[winpcap](https://www.winpcap.org/) on your windows device to support [scapy](https://github.com/secdev/scapy)
+Step 3.
+Run sleuth.py
 
 # Built-in Commands
 ```
