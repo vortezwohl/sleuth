@@ -19,7 +19,7 @@ Sleuth is a network sniffer or a proxy firewall
 
 # Get Started
 Step 1.
-Install packages from requirements.txt
+Install packages from [requirements.txt](https://github.com/vortezwohl/sleuth-network-sniffer/blob/main/requirements.txt)
 Step 2.
 Install [npcap](https://npcap.com/)/[winpcap](https://www.winpcap.org/) on your windows device to support [scapy](https://github.com/secdev/scapy)
 Step 3.
