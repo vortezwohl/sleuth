@@ -11,10 +11,10 @@
 [scapy](https://github.com/secdev/scapy), [colorama](https://github.com/tartley/colorama), [pydivert](https://github.com/ffalcinelli/pydivert)
 
 # Run as user (Proxy doesn't work but other features work well)
-![image](https://github.com/vortezwohl/sleuth/assets/117743023/8874d188-e876-4ac9-a354-9561bc7a33ac)
+![user](https://github.com/vortezwohl/sleuth/assets/117743023/f2a46f7a-f10d-4c3a-b4b9-0d69c5c80060)
 
 # Run as administrator (Proxy works)
-![image](https://github.com/vortezwohl/sleuth/assets/117743023/911de0de-c1c0-4dd4-ba67-88965cc5b3cb)
+![admin](https://github.com/vortezwohl/sleuth/assets/117743023/cf9cf3fc-73f4-44e4-8d63-0cc4b860b93c)
 
 # Get Started
 - Step 1.
