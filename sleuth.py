@@ -386,16 +386,17 @@ for monitor in traffic_monitors:
     monitor.start()
     number_of_monitors += 1
 
+print(f'{Fore.GREEN}[INFO]{Fore.RESET} ' + 'Sleuth version: 0.3.13')
 print(f'{Fore.GREEN}[INFO]{Fore.RESET} ' + f'{len(threading.enumerate())} threads running.')
 print(f'{Fore.YELLOW}[WARNING]{Fore.RESET} ' + 'Terminate threads before you exit sleuth (by typing "exit", "bye" etc).')
 
 sleuth = '''
 
                 {/H/SL/U/H//}           |    
-               {T/W//LE/TH/L/}          |    welcome to sleuth v0.3.10
-              {S/{W/Z/H//H//U/L}}       |    type "help" to learn
+               {T/W//LE/TH/L/}          |    welcome to sleuth
+              {S/{W/Z/H//H//U/L}}       |    type "help" for help
             {SLEU/H/SL/UTH/O/S0TO}}}    |    
-              ///           |)          |    https://github.com/vortezwohl/sleuth-network-sniffer
+              ///           |)          |    https://github.com/vortezwohl/sleuth
                //             \\         |    
                 /           =|          |    have fun! ;)
                  |            \\         |    
@@ -406,8 +407,9 @@ sleuth = '''
 print(sleuth)
 while main_running:
     if sync_thread_main_lock:
-        input_ = input(f'{Fore.LIGHTWHITE_EX}sleuth>>{Fore.RESET}')
-        cmd = input_.split(' ')
+        input_ = input(f'{Fore.LIGHTWHITE_EX}sleuth> {Fore.RESET}')
+        # cmd = input_.split(' ')
+        cmd = re.split('\s+', input_.strip())
         if input_ == '':
             pass
         elif cmd[0] in ("help", "guide"):
